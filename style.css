@@ -33,7 +33,7 @@ header {
     margin-left: 225px;
   }
 
-.container {
+.topcontainer {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
@@ -46,19 +46,7 @@ header {
 
 }
 
-.navbar {
 
-    position: relative;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    -ms-flex-align: center;
-    align-items: center;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
-    padding: .5rem 1rem;
-}
 
 
 .containerforpages {
@@ -101,6 +89,7 @@ input[type=submit]:hover {
   padding: 20px;
   margin-left:auto;
   margin-right:auto;
+  text-align: center;
 }
 
 .footer {
