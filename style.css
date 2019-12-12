@@ -45,8 +45,11 @@ header {
   line-height: 1.8;
 
 }
+.navbar  {
 
+border-right: bg-light;
 
+}
 
 
 .containerforpages {
@@ -77,10 +80,6 @@ input[type=submit] {
   border: none;
   border-radius: 4px;
   cursor: pointer;
-}
-
-input[type=submit]:hover {
-  background-color: #4aaaa5;
 }
 
 .container {
