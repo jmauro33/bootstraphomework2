@@ -16,21 +16,24 @@ header {
  }
   #logo{
     float: left;
-    overflow: hidden;
+    overflow: visible;
     clear:both;
     display: block;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
     color:white;
     background-color: #4aaaa5;
-    height:37px;
+    height:60px;
     padding-right: 19px;
     padding-left: 19px;
     margin-right: 420px;
-    padding-top: 20px;
-    padding-bottom: 19px;
+    padding-top: 2px;
+    padding-bottom: 2px;
     margin-top: 0px;
     margin-bottom: 0px;
     margin-left: 225px;
+
+    
   }
 
 .topcontainer {
@@ -107,6 +110,7 @@ h1 {
   float: left;
   text-align: left;
   background-color: turquoise;
+  display:block;
 
 }
 
