@@ -19,7 +19,26 @@
           </div>
             
   
-    
+            </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="footer">
+        <div class="row">
+          <div class="col-sm">
+            <p>Jonathan Mauro</p>
+          </div>
+          <div class="col-sm">
+            <p>Footer</p>
+          </div>
+          <div class="col-sm">
+            <p>Copyright 2019</p>
+          </div>
+        </div>
+    </div>
     
     
     
