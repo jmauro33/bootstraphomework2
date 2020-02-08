@@ -14,27 +14,7 @@ header {
 
 
  }
-  #logo{
-    float: left;
-    overflow: visible;
-    clear:both;
-    display: block;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: large;
-    color:white;
-    background-color: #4aaaa5;
-    height:60px;
-    padding-right: 19px;
-    padding-left: 19px;
-    margin-right: 420px;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-left: 225px;
-
-    
-  }
+ 
 
 .topcontainer {
   border-radius: 5px;
@@ -98,7 +78,7 @@ input[type=submit] {
 
 .footer {
     position: fixed;
-    border-top: 8px solid #4aaaa5;
+    border-top: 8px solid red;
     background-color:grey;
     color:black;
     text-align: center;
@@ -108,10 +88,10 @@ input[type=submit] {
 }
 
 h1 {
-  float: left;
-  text-align: left;
-  background-color: rgb(224, 64, 64);
-  display:block;
+ 
+  font-size:60px;
+ 
+  
 
 }
 
